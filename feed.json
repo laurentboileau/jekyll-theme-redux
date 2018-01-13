@@ -2,14 +2,14 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Redux",
     "description": "An absurdly bare-bones Jekyll theme.",
-    "home_page_url": "/",
-    "feed_url": "/feed.json",
+    "home_page_url": "/jekyll-theme-redux/",
+    "feed_url": "/jekyll-theme-redux/feed.json",
     "author": {
         "name": "Laurent Boileau"},
     "items": [
       {
-            "id": "/2018/01/13/welcome-to-redux",
-            "url": "/2018/01/13/welcome-to-redux/",
+            "id": "/jekyll-theme-redux/2018/01/13/welcome-to-redux",
+            "url": "/jekyll-theme-redux/2018/01/13/welcome-to-redux/",
             "title": "Welcome to Redux",
             "content_html": "<p>Redux is an absurdly bare-bones <a href=\"https://jekyllrb.com/\">Jekyll</a> theme. Use it <em>as is</em> or as a launchpad for your own creations.</p>\n\n<p>This theme was created to see how much I could justify stripping away while also leveraging browsers’ default styles. It was fun to do.</p>",
             "summary": "Redux is an absurdly bare-bones Jekyll theme. Use it as is or as a launchpad for your own creations.",

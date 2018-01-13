@@ -1,6 +1,10 @@
 # jekyll-theme-redux
 
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-redux.svg)](https://badge.fury.io/rb/jekyll-theme-redux)
+
 An absurdly bare-bone Jekyll theme. Inspired by [Poole][poole].
+
+Use it as is or as a launchpad for your own creations. See it [live][demo].
 
 ![Screen Shot](/screenshot.png "Let the browser do the heavy lifting.")
 
@@ -26,10 +30,6 @@ Or install it yourself as:
 
     $ gem install jekyll-theme-redux
 
-## Usage
-
-Use it as is or as a launchpad for your own creations.
-
 ### Configuration
 
 The following `_config.yml` options are leveraged:
@@ -53,5 +53,6 @@ The changelog can be consulted [here][changelog].
 The theme is available as open source under the terms of the [MIT License][license].
 
 [poole]: https://github.com/poole/poole
+[demo]: https://laurentboileau.github.io/jekyll-theme-redux
 [changelog]: CHANGELOG.md
 [license]: LICENSE.txt

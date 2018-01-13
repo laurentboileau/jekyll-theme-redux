@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Laurent Boileau"]
   spec.email         = ["developer@laurentboileau.ca"]
 
-  spec.summary       = %q{An absurdly barebone Jekyll theme.}
+  spec.summary       = %q{An absurdly bare-bone Jekyll theme. Inspired by Poole.}
   spec.homepage      = "https://github.com/laurentboileau/jekyll-theme-redux"
   spec.license       = "MIT"
 

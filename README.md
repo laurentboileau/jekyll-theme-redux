@@ -1,10 +1,8 @@
 # jekyll-theme-redux
 
-An absurdly barebone Jekyll theme.
+An absurdly bare-bone Jekyll theme. Inspired by [Poole][poole].
 
-Let the browser do the heavy lifting. Inspired by [Poole][poole].
-
-![Screen Shot](/screenshot.png "Screen Shot")
+![Screen Shot](/screenshot.png "Let the browser do the heavy lifting.")
 
 ## Installation
 

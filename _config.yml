@@ -13,4 +13,4 @@ paginate:           5
 
 navigation:
   - title: About
-    url: /about
+    url: /jekyll-theme-redux/about

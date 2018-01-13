@@ -6,6 +6,7 @@ author:
   url:              https://laurentboileau.ca
 
 theme:              jekyll-theme-redux
+permalink:          pretty
 paginate:           5
 
 navigation:

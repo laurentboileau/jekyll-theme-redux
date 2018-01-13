@@ -1,6 +1,8 @@
 title:              Redux
 description:        An absurdly bare-bones Jekyll theme.
 
+baseurl:            /jekyll-theme-redux
+
 author:
   name:             Laurent Boileau
   url:              https://laurentboileau.ca
